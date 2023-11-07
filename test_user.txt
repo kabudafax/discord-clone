@@ -2,4 +2,4 @@ emial: lewisnie123@163.com
 password:123456weU*
 
 git push -u origin --all
-为什么git push -u origin main会失败呢》
+为什么git push -u origin main会失败呢?
